@@ -25,6 +25,7 @@
   "homepage": "https://github.com/bface007/Express-Rest-Api-Bootstrap#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
+    "debug": "^2.6.6",
     "express": "^4.15.2",
     "morgan": "^1.8.1"
   }
