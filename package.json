@@ -1,0 +1,31 @@
+{
+  "name": "express_rest_api_bootstrap",
+  "version": "1.0.0",
+  "description": "ExpressJS Rest Api Bootstrap",
+  "main": "bin/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bface007/Express-Rest-Api-Bootstrap.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "rest",
+    "api",
+    "bootstrap"
+  ],
+  "author": "bface007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bface007/Express-Rest-Api-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/bface007/Express-Rest-Api-Bootstrap#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  }
+}
